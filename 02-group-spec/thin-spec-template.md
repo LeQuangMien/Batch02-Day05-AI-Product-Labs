@@ -72,8 +72,8 @@ Owner kiểm thử path này là: [Tên thành viên phụ trách Tech/UX của 
 
 | Thành viên | Việc phụ trách | Bằng chứng cần có trong repo |
 |---|---|---|
-|  | Research / evidence |  |
-|  | SPEC |  |
-|  | Prototype |  |
-|  | Test / failure path |  |
-|  | Demo script / repo |  |
+| Trần Đức Tâm - 2A202600803 | Research / evidence |  |
+| KimHongGiang - 2A202600600 | SPEC |  |
+| TranNgocThuy - 2A202600799 | Prototype |  |
+| Lê Quốc Bảo - 2A202600561 | Test / failure path |  |
+| LeQuangMien - 2A202600715 | Demo script / repo |  |
